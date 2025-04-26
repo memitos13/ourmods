@@ -1,0 +1,14 @@
+{
+  "project_id": "ourmods",
+  "versions": [
+    {
+      "version_number": "1.0.0",
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/memitos13/ourmods/main/ourmods-1.0.0.mrpack",
+          "filename": "ourmods-1.0.0.mrpack"
+        }
+      ]
+    }
+  ]
+}
