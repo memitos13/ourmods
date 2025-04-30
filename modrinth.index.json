@@ -5,17 +5,8 @@
       "version_number": "1.0.1",
       "files": [
         {
-          "url": "https://github.com/memitos13/ourmods/releases/download/1.0.1/ourmods-1.0.1.mrpack",
+          "url": "https://raw.githubusercontent.com/memitos13/ourmods/main/ourmods-1.0.1.mrpack",
           "filename": "ourmods-1.0.1.mrpack"
-        }
-      ]
-    },
-    {
-      "version_number": "1.0.0",
-      "files": [
-        {
-          "url": "https://github.com/memitos13/ourmods/releases/download/1.0.0/ourmods-1.0.0.mrpack",
-          "filename": "ourmods-1.0.0.mrpack"
         }
       ]
     }
